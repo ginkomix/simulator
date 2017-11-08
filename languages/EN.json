@@ -1,0 +1,13 @@
+{
+"entrance":"Log in",
+"check":"Sign up",
+"do_login":"Log in",
+    "do_signup":"Sign up",
+    "password":"Password:",
+    "login":"Login:",
+    "name":"Name:",
+    "surname":"Surname:",
+    "gender":"Gender:",
+    "password2":"Confirm password:"
+    
+}
